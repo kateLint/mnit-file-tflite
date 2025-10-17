@@ -1,7 +1,3 @@
-Here’s a complete **README.md** for your uploaded script (`mnit_file.py`), documenting the purpose, structure, and usage of your MNIST TensorFlow Lite model conversion workflow:
-
----
-
 # 🧠 MNIST TensorFlow Lite Model Generator
 
 ## 📄 Overview
